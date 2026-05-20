@@ -13,7 +13,7 @@ const About = () => {
                         </p>
 
                         <div className="resume-download mt-2">
-                            <a href="assets/CV_Virda_Septina_P.pdf" target="_blank" rel="noopener noreferrer"
+                            <a href="assets/CV_Virda_Septina_Putri.pdf" target="_blank" rel="noopener noreferrer"
                                 className="btn btn-primary"><i className="fa-solid fa-file-pdf"></i> Download Resume (PDF)</a>
                         </div>
                     </div>
